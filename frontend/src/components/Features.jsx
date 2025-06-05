@@ -36,7 +36,7 @@ export default function Features() {
           <img 
             src={apple} 
             alt="App Store" 
-            className="w-32  border-[200] sm:w-36"
+            className="w-32   sm:w-36"
           />
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
